@@ -45,6 +45,11 @@
     "webpack-manifest-plugin": "1.1.0",
     "whatwg-fetch": "2.0.3"
   },
+  "graphql":{
+    "request":{
+      "url":"https://api.graph.cool/relay/v1/cj5m14mimf5b4012204yqrm5b"
+      }
+    },
   "scripts": {
     "start": "node scripts/start.js",
     "build": "node scripts/build.js",
