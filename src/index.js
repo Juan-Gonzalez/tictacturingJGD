@@ -9,3 +9,6 @@ ReactDOM.render(
     history={browserHistory}
     routes={Routes} />,
   document.getElementById('root'))
+
+
+//graphql config https://www.npmjs.com/package/graphql-config-parser
