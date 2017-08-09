@@ -90,3 +90,5 @@ choosePort(HOST, DEFAULT_PORT)
     }
     process.exit(1);
   });
+
+// Graphql react endpoing create in the terminal with 'set GRAPHQL_ENDPOINT=https://api.graph.cool/relay/v1/cj5m14mimf5b4012204yqrm5b '
