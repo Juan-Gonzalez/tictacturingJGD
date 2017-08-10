@@ -12,3 +12,4 @@ ReactDOM.render(
 
 
 //graphql config https://www.npmjs.com/package/graphql-config-parser
+//https://github.com/graphcool/graphql-config#usage
