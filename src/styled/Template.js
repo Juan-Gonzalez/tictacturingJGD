@@ -25,7 +25,7 @@ export const Main = (props) => {
   return (
     <Container>
       {props.children}
-    </Container>
+    </Container> 
 
 
   )
